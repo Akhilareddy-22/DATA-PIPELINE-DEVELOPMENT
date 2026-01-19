@@ -51,6 +51,8 @@ python data_pipeline.py
 3.Output file will be generated as 
 cleaned_data.csv
 
+output
+![Image](https://github.com/user-attachments/assets/8ec30fc6-188c-4427-9f61-388a4bce7277)
 
 Output file will be generated as 
 cleaned_data.csv
